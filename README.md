@@ -15,4 +15,3 @@ I'm a software developer currently living in UK.
  
  -------------------
  
-**http://typein.ninja** - typing test app. test your speed and accuracy this free and fun typing test website.
