@@ -2,7 +2,7 @@
 
 ![](https://media.giphy.com/media/26tjZY3Ukotb3UVfG/source.gif)
 
-I'm a web engineer currently living in UK.
+Somesort of software engineer. The Web is my space. 
 
 🚀 If you like my work follow me on
  twitter at [@zapobyte](https://twitter.com/zapobyte)
