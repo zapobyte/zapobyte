@@ -7,11 +7,6 @@ The Web is my space. Software engineer from Romania
 🚀 If you like my work follow me on
  twitter at [@zapobyte](https://twitter.com/zapobyte)
  
- or
- 
- ✉️ contact@victorz.me 
- 
- 🔗 www.victorz.me
- 
+  
  -------------------
  
