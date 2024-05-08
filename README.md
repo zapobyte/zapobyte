@@ -1,8 +1,6 @@
 # Hello! 👋
 
-Web software engineer in space. 🚀
- 
-[![5411318](https://github.com/zapobyte/zapobyte/assets/12383059/b45524d7-e230-496b-9512-ac9f87963b2b)](https://retroachievements.org/user/zapo) - https://retroachievements.org/user/zapo
+I'm a passionate Software Engineer specializing in web development. I leverage modern technologies and innovative strategies to build scalable and efficient web solutions. As the founder of ByteForgeSoftware, I lead a dynamic team dedicated to developing cutting-edge applications that empower businesses and enhance user experiences. Explore my repositories to see how we push the boundaries of web technology to create exceptional digital products. Let's connect and build something great together!
 
  -------------------
  
